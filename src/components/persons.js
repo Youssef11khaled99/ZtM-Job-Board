@@ -4702,5 +4702,21 @@ export const persons = [
       state: "CA",
       country: "USA"
     }
+  },
+  {
+    id: 330,
+    name: "Youssef Khaled Roshdy",
+    img: "https://i.imgur.com/5Ditf0V.jpg",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/youssef-khaled-827bb3163/",
+      github: "https://github.com/Youssef11khaled99"
+    },
+    jobTitle: "Front-End Developer",
+    location: {
+      city: "Giza",
+      state: "",
+      country: "Egypt"
+    }
   }
 ];
